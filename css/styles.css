@@ -1,5 +1,5 @@
 body{
-  background-color: black;
+  background-color: slategray;
 }
 
 h1  {
@@ -7,3 +7,16 @@ h1  {
   text-align: center;
   font-family: fantasy;
 }
+
+#Isosceles {
+  display: none;
+}
+
+#Equilateral {
+  display: none;
+}
+
+#Scalene {
+  display: none;
+}
+
